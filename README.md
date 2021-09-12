@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishavgarg
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning data analytics and github
+- 🌱 I’m currently learning web development
 
 - 📫 Reach me through my email: vishavgarg96@gmail.com
 
