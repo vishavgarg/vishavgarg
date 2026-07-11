@@ -81,12 +81,7 @@ Currently building an **AI-powered Legal Assistant** that provides actionable le
 
 </td>
 
-<td width="45%" valign="top">
 
-```text
-      YOUR ASCII PORTRAIT
-      GOES HERE
-```
 
 ---
 
